@@ -1,0 +1,237 @@
+header
+{
+    padding: 10px;
+    padding-top: 10px;
+    height: 80px;
+    width: 1681px;
+    background-color: #d3d6d7;
+    border: 3px solid #392012;
+    display: flex;
+    flex-flow: wrap;
+    position:fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.lilycrew
+{
+    margin-right: 50px;
+    height: 70px;
+    width: 70px;
+    border: 3px solid #392012;
+    background-color: #f1f4f5;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+}
+
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: #392012;
+    margin-top: 140px;
+    margin-bottom: 75px;
+    
+    background-color: #1c8eae;
+}
+
+nav ul li
+{
+    display: inline-block;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-right: 6px;
+}
+
+nav ul
+{
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 3px solid #392012;
+    background-color: #f1f4f5;
+    border-radius: 25px;
+}
+
+h1
+{
+    font-size: 40px;
+    display: block;
+    margin-left: 200px;
+    margin-right: auto;
+    margin-top: 0px;
+    border: 3px solid #392012;
+    background-color: #f1f4f5;
+    padding: 10px;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+
+h2
+{
+    font-size: 36px;
+    text-align: center;
+}
+
+h3
+{
+    font-size: 28px;
+    display: block;
+    text-align: center;
+}
+
+h5
+{
+    margin: 50px;
+}
+
+p
+{
+    font-size: 22px;
+    display: block;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.growth
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+.lily1
+{
+    width: 90px;
+    height: 90px;
+    margin-left: 50px;
+}
+
+.lily2
+{
+    width: 90px;
+    height: 90px;
+    margin-left: 60px;
+    transform: scaleX(-1);
+    vertical-align:top;
+}
+
+iframe
+{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 5px solid #7ecdd8;
+}
+
+hr
+{
+    color:#392012;
+    margin: 50px;
+}
+
+.Connect
+{
+    display: flex;
+    justify-content: center;
+}
+
+.Witch1
+{
+    height: 500px;
+    width: 650px;
+    margin-left: auto;
+    margin-right: 25px;
+    border: 5px solid #7ecdd8;
+}
+
+.Witch2
+{
+    height: 500px;
+    width: 650px;
+    margin-right: auto;
+    margin-left: 25px;
+    border: 5px solid #7ecdd8;
+}
+
+.icon1
+{
+    height: 50px;
+    width: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 20px;
+}
+
+.icon2
+{
+    height: 50px;
+    width: 90px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.creature
+{
+    height: 300px;
+    width: 220px;
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mid
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slides 
+{ 
+    max-height: 360px;
+    max-width: 600px; 
+    height: auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+q
+{
+    font-size: 20px;
+    font-style: italic;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+    justify-content:center;
+    text-align: center;
+}
+
+div
+{
+    border: 3px solid #7ecdd8;
+    font-size: 20px;
+    text-align: center;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+div hr
+{
+    color: #7ecdd8 !important
+}
+
+audio
+{
+    margin: 30px;
+}
